@@ -9,11 +9,11 @@
 }
 @font-face {
 	font-family: "QuickSand";
-	src: url("../public/Quicksand/Quicksand-VariableFont_wght.ttf");
+	src: url("./public/fonts/Quicksand.ttf");
 }
 @font-face {
 	font-family: "Mulish";
-	src: url("../public/Mulish/Mulish-VariableFont_wght.ttf");
+	src: url("./public/fonts/Mulish.ttf");
 }
 
 * {
